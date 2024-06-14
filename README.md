@@ -13,6 +13,11 @@ The dataset is sourced from the UCI Machine Learning Repository, originally publ
 
 ![IRIS DATASET](https://github.com/adepel80/Ensemble-learning/assets/123180341/bc43ec6e-4bf2-4aaf-b9dd-fd0186b1e417)
 
+``` from sklearn.datasets import load_iris
+iris = load_iris()
+X= iris.data
+y= iris.target
+```
 
 
 
@@ -20,6 +25,26 @@ The dataset is sourced from the UCI Machine Learning Repository, originally publ
 ## LIBRARIES
 ![ENSE LIBRAROES](https://github.com/adepel80/Ensemble-learning/assets/123180341/100604c3-2a38-47cf-95d3-7b08bb69bc5d)
 
+```import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import chart_studio.plotly as py
+from sklearn.impute import SimpleImputer
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder,StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.neural_network import MLPClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import classification_report,confusion_matrix,accuracy_score,r2_score
+plt.style.use ("dark_background")
+
+import os
+```
 
 ## TECHNIQUES IMPLEMENTED
 
