@@ -15,10 +15,18 @@ Example: Random Forest, which combines multiple decision trees.
 
 Sequentially trains models, each focusing on correcting the errors of its predecessor.
 Example: AdaBoost, Gradient Boosting Machines (GBM), XGBoost.
+
+![ENSE ADA1](https://github.com/adepel80/Ensemble-learning/assets/123180341/8256d1bd-3d87-42a2-9063-b3e10edf6757)
+
 ## Stacking:
 
 Combines multiple models using a meta-model, which is trained on the predictions of the base models.
 Example: Using logistic regression or another algorithm as the meta-model.
+![ENSE KNN](https://github.com/adepel80/Ensemble-learning/assets/123180341/6c5ad0a1-cfb3-49eb-a771-834f4d993e8e)
+
+##  BAGGING ALGORITHM
+![ENSEM BAGGING](https://github.com/adepel80/Ensemble-learning/assets/123180341/71c74d4b-9566-485a-9579-aff4074bc2bc)
+
 
 ## Dataset
 The Iris dataset, a classic dataset in machine learning, is used to implement and demonstrate these techniques. It contains 150 instances of iris flowers, each described by four features: sepal length, sepal width, petal length, and petal width. The goal is to classify the flowers into one of three species: Iris-setosa, Iris-versicolor, or Iris-virginica.
