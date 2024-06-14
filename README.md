@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This project aims to demonstrate the power and effectiveness of ensemble learning techniques in the field of machine learning. Ensemble learning combines the predictions from multiple models to create a more accurate and reliable predictive model than any single model alone. This approach reduces the risk of overfitting and improves generalization to new data.
+This Ensemble learning project aims to demonstrate the power and effectiveness of ensemble learning techniques in the field of machine learning. Ensemble learning combines the predictions from multiple models to create a more accurate and reliable predictive model than any single model alone. This approach reduces the risk of overfitting and improves generalization to new data.
 
 ## Dataset
 The Iris dataset, a classic dataset in machine learning, is used to implement and demonstrate these techniques. It contains 150 instances of iris flowers, each described by four features: sepal length, sepal width, petal length, and petal width. The goal is to classify the flowers into one of three species: Iris-setosa, Iris-versicolor, or Iris-virginica.
