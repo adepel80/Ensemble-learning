@@ -23,6 +23,9 @@ Example: Using logistic regression or another algorithm as the meta-model.
 ## Dataset
 The Iris dataset, a classic dataset in machine learning, is used to implement and demonstrate these techniques. It contains 150 instances of iris flowers, each described by four features: sepal length, sepal width, petal length, and petal width. The goal is to classify the flowers into one of three species: Iris-setosa, Iris-versicolor, or Iris-virginica.
 
+## LIBRARIES
+![ensemble 1](https://github.com/adepel80/Ensemble-learning/assets/123180341/e1563ca3-c331-4302-8314-6ffbd5c1cc79)
+
 ## Data Source: 
 The dataset is sourced from the UCI Machine Learning Repository, originally published by Ronald A. Fisher in 1936.
 
