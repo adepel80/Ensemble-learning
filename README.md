@@ -7,6 +7,10 @@ This project aims to demonstrate the power and effectiveness of ensemble learnin
 ## Dataset
 The Iris dataset, a classic dataset in machine learning, is used to implement and demonstrate these techniques. It contains 150 instances of iris flowers, each described by four features: sepal length, sepal width, petal length, and petal width. The goal is to classify the flowers into one of three species: Iris-setosa, Iris-versicolor, or Iris-virginica.
 
+## Data Source: 
+The dataset is sourced from the UCI Machine Learning Repository, originally published by Ronald A. Fisher in 1936.
+
+
 ![IRIS DATASET](https://github.com/adepel80/Ensemble-learning/assets/123180341/bc43ec6e-4bf2-4aaf-b9dd-fd0186b1e417)
 
 
@@ -40,9 +44,6 @@ Example: Using logistic regression or another algorithm as the meta-model.
 ##  BAGGING ALGORITHM
 ![ENSEM BAGGING](https://github.com/adepel80/Ensemble-learning/assets/123180341/71c74d4b-9566-485a-9579-aff4074bc2bc)
 
-
-## Data Source: 
-The dataset is sourced from the UCI Machine Learning Repository, originally published by Ronald A. Fisher in 1936.
 
 ## Project Structure
 
